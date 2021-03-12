@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "": {
+      "trigger": "tick"
+    }
+  },
+  "rewards": {
+    "function": "icarus:give_items"
+  }
+}
